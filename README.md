@@ -1,8 +1,8 @@
-# surprisal-toolkit-teaching-materials
+# Surprisal Toolkit Teaching Materials
 
-# About
+Here we share teaching materials from our paper ["An Interactive Toolkit for Approachable NLP"](https://aclanthology.org/2024.teachingnlp-1.17.pdf) by AriaRay Brown, Julius Steuer, Marius Mosbach, and Dietrich Klakow, for the TeachNLP Workshop at ACL 2024. 
 
-Here we share teaching materials for the TeachNLP workshop at ACL 2024. The slides and Jupyter notebook(s) were used to teach 3 tutorial sessions with the [Surprisal Toolkit](https://github.com/uds-lsv/surprisal-toolkit).
+The slides and Jupyter notebooks were used to teach 3 tutorial sessions with the [Surprisal Toolkit](https://github.com/uds-lsv/surprisal-toolkit).
 
 # Teaching Materials
 
