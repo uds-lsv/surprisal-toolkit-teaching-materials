@@ -24,8 +24,5 @@ Here we share teaching materials for the TeachNLP workshop at ACL 2024. The slid
 
 # License
 
-tbd :) for the transparency and accessibility of education
-
-
-
+See the [LICENSE](LICENSE.txt) file for license rights and limitations (MIT). We welcome the shared usage of our materials for educational purposes.
 
